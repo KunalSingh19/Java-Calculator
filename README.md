@@ -1,5 +1,5 @@
-# [Simple Javascript Calculator](https://harsh98trivedi.github.io/Simple-JavaScript-Calculator) 
+# [Simple Javascript Calculator](https://KunalSingh19.github.io/Java-Calculator) 
 
-A simple JavaScript Calculator made by [Harsh Trivedi](https://harsh98trivedi.github.io)
+A simple JavaScript Calculator made by [KunalSingh19](https://KunalSingh19.github.io)
 
-![Simple Javascript Calculator](https://raw.githubusercontent.com/harsh98trivedi/Simple-JavaScript-Calculator/master/meta.jpg)
+![Simple Javascript Calculator](https://raw.githubusercontent.com/KunalSingh19/Java-Calculator/master/meta.jpg)
